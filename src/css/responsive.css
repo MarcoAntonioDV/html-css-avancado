@@ -1,0 +1,233 @@
+@media (max-width: 425px) {
+    .container{
+        display: flex;
+        background: url(../images/bg-mobile.svg) center center no-repeat;
+        background-size: cover;
+        padding: 0;
+    }
+
+    .header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+    }
+
+    .logo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+    }
+
+    .content{
+        display: flex;
+        flex-direction: column;
+        max-width: 400px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image{
+        display: flex;
+        padding: 0;
+        max-width: 300px;
+    }
+
+    .info{
+        display: flex;
+        gap: 5px;
+        max-width: 350px;
+        padding: 0px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .info h1{
+        display: flex;
+        font-family:'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 10px;
+        max-width: 350px;
+        text-align: center;
+        line-height: 0;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+        flex-wrap: wrap;
+    }
+
+    .info p{
+        display: flex;
+        font-family: 'Open sans',sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        max-width: 330px;
+        justify-content: center;
+        align-items: center;
+        text-indent: 20px;
+        margin-left: 20px;
+    }
+
+    footer{
+        display: flex;
+        max-width: 290px;
+        padding: 0;
+        justify-self: center;
+    }
+
+    footer .list{
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+    }
+
+    .icons{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 0;
+    }
+
+    .icons ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 0;
+    }
+
+    .icons li{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .icons a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+@media(max-width:768px){
+    .container{
+        display: flex;
+        background: url(../images/bg-mobile.svg) center center no-repeat;
+        background-size: cover;
+        padding: 0;
+    }
+
+    .header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+    }
+
+    .logo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+    }
+
+    .content{
+        display: flex;
+        flex-direction: column;
+        max-width: 400px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image{
+        display: flex;
+        padding: 0;
+        max-width: 300px;
+    }
+
+    .info{
+        display: flex;
+        gap: 5px;
+        max-width: 350px;
+        padding: 0px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .info h1{
+        display: flex;
+        font-family:'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 10px;
+        max-width: 350px;
+        text-align: center;
+        line-height: 0;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+        flex-wrap: wrap;
+    }
+
+    .info p{
+        display: flex;
+        font-family: 'Open sans',sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        max-width: 330px;
+        justify-content: center;
+        align-items: center;
+        text-indent: 20px;
+        margin-left: 20px;
+    }
+
+    footer{
+        display: flex;
+        max-width: 290px;
+        padding: 0;
+        justify-self: center;
+    }
+
+    footer .list{
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+    }
+
+    .icons{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 0;
+    }
+
+    .icons ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 0;
+    }
+
+    .icons li{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .icons a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}
