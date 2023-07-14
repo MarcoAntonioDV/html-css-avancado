@@ -115,12 +115,14 @@
     }
 }
 
-@media(max-width:768px){
+@media(max-width:1200px){
     .container{
         display: flex;
         background: url(../images/bg-mobile.svg) center center no-repeat;
         background-size: cover;
-        padding: 0;
+        padding: 10px;
+        align-items: center;
+        justify-content: center;
     }
 
     .header{
